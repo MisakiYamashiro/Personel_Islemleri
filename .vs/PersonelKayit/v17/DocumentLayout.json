@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\efepa\\source\\repos\\PersonelKayit\\personelkayit\\personelkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\personelkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|c:\\users\\efepa\\source\\repos\\personelkayit\\personelkayit\\personelkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\personelkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\efepa\\source\\repos\\PersonelKayit\\personelkayit\\sehir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\sehir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\efepa\\source\\repos\\PersonelKayit\\personelkayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\efepa\\source\\repos\\PersonelKayit\\personelkayit\\ilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06734D1C-DD84-4550-9B98-54291213AE37}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\ilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2313,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ilce.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Ilce.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\Ilce.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Ilce.cs",
+              "RelativeToolTip": "PersonelKayit\\Ilce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:51:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sehir.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Sehir.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\Sehir.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Sehir.cs",
+              "RelativeToolTip": "PersonelKayit\\Sehir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:50:58.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonelKayit.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\PersonelKayit.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\PersonelKayit.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\PersonelKayit.cs",
+              "RelativeToolTip": "PersonelKayit\\PersonelKayit.cs",
+              "ViewState": "AgIAAN0EAAAAAAAAAADwv/UEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:45:22.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\PersonelKayit.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\PersonelKayit.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\PersonelKayit.cs [Design]",
+              "RelativeToolTip": "PersonelKayit\\PersonelKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:48:55.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\Program.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PersonelKayit\\PersonelKayit\\Program.cs",
+              "RelativeToolTip": "PersonelKayit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:34:24.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
