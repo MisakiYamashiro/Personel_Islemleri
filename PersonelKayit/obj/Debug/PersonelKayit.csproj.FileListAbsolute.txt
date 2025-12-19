@@ -9,3 +9,14 @@ C:\Users\efepa\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.
 C:\Users\efepa\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
 C:\Users\efepa\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
 C:\Users\efepa\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe.config
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.exe.config
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.PersonelKayit.resources
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\obj\Debug\PersonelKayit.pdb

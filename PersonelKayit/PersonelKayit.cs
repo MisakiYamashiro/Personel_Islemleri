@@ -13,7 +13,8 @@ namespace PersonelKayit
 {
     public partial class PersonelKayit : Form
     {
-        string klasorYolu = @"C:\Users\efepa\source\repos\PersonelKayit\PersonelKayit\Personeller";
+        string klasorYolu = @"C:\Users\efepa\OneDrive\Documenti\GitHub\Personel_Islemleri\PersonelKayit\Personeller";
+        //Klasör Yolunu Değiştirin.
         public PersonelKayit()
         {
             InitializeComponent();
